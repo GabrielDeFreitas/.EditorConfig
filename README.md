@@ -1,5 +1,3 @@
-<strong><h1 align="center">EditorConfig</h1></strong>
-
 ## Como funciona
 
 O arquivo `.editorconfig` é colocado na raiz do projeto e contém uma série de regras que definem como o código deve ser formatado. Essas regras podem incluir:
