@@ -12,6 +12,8 @@ Para usar o EditorConfig, basta instalar o plugin correspondente ao seu editor, 
 
 Abaixo está um exemplo de arquivo `.editorconfig` com as regras que mais utilizo. Deixei registrado para facilitar o uso e garantir a consistência na formatação do código.
 
+Para mais informações sobre as regras, acesse o site: https://editorconfig.org
+
 ## Exemplo de arquivo .editorconfig
 
 ```ini
